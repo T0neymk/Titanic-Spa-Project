@@ -24,7 +24,7 @@ const Payments = () => {
 
     try {
       const response = await axios.post(
-        "https://5000-brianitira1-titanicspap-rgfq7tezv88.ws-eu108.gitpod.io/token",
+        "http://localhost:5000/token",
         {
           phone,
           amount,
