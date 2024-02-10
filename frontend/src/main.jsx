@@ -7,7 +7,7 @@ import { ClerkProvider } from "@clerk/clerk-react";
 
 //import dotenv from "dotenv";
 
-//dotenv.config();
+//dotenv.config();                                                                    //the root of the system
 
 
 //process.env.VITE_CLERK_PUBLISHABLE_KEY
