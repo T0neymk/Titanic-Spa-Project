@@ -75,8 +75,8 @@ const Footer: React.FC = () => {
               variants={variants}
             >
               <h5 className="mb-3">Contact Us</h5>
-              <p>Email: brianitira@programmer.net</p>
-              <p>Phone: +254 (784) 67-6284</p>
+              <p>Email: jumanewton20@gmail.com</p>
+              <p>Phone: +254 (769) 56-1378</p>
             </motion.div>
           </motion.div>
           <motion.hr
