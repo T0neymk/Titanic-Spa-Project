@@ -104,7 +104,7 @@ const Hero: React.FC = () => {
             transition={{ duration: 1, delay: 1.5 }}
             style={{ marginLeft: "5px" }}
           >
-            Dashboard
+            Admin Login
           </motion.button>
         </div>
       </motion.div>
